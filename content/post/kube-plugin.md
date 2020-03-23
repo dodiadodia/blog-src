@@ -2,6 +2,8 @@
 title: "Kube Plugin"
 date: 2020-03-20T16:44:40+08:00
 draft: false
+tags: ["kubectl", "kubernetes"]
+isCJKLanguage: true
 ---
 
 # Kubectl几个比较有用的插件分享
